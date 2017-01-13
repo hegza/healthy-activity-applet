@@ -1,0 +1,8 @@
+[package]
+name = "healthy-activity-applet"
+version = "0.1.0"
+authors = ["Henri Lunnikivi <henri.lunnikivi@gmail.com>"]
+
+[dependencies]
+rocket = "0.1.4"
+rocket_codegen = "0.1.4"
