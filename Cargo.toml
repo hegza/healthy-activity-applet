@@ -2,7 +2,11 @@
 name = "healthy-activity-applet"
 version = "0.1.0"
 authors = ["Henri Lunnikivi <henri.lunnikivi@gmail.com>"]
+build = "src/build.rs"
 
 [dependencies]
 rocket = "0.1.4"
 rocket_codegen = "0.1.4"
+log = "0.3.6"
+url = "1.2.4"
+time = "0.1.35"
